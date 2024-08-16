@@ -1,0 +1,18 @@
+# 무시할 폴더
+runs/
+drowsy detection.v2i.yolov8/
+yolo10/
+defalt_weight/
+
+# .pt 파일 무시
+*.pt
+
+# .log 파일 무시
+*.log
+
+# 특정 파일 무시
+drowsy
+main
+
+# 특정 확장자 파일 무시
+*.tmp
